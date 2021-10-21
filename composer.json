@@ -1,0 +1,16 @@
+{
+    "name": "damien/composer",
+    "description": "Comprendre composer",
+    "autoload": {
+        "psr-4": {
+            "app\\":"src/Wcs"
+        }
+    },
+    "authors": [
+        {
+            "name": "dchantreau",
+            "email": "chantreaudamien@gmail.com"
+        }
+    ],
+    "require": {}
+}
